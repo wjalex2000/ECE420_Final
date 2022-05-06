@@ -1,0 +1,99 @@
+# ninja log v5
+23	516	671589460	CMakeFiles/echo.dir/kiss_fft/kiss_fft.c.o	5676cb3e4bd8ec98
+1	1168	671589461	CMakeFiles/echo.dir/ece420_lib.cpp.o	5e652dfafc54ca10
+41	1499	671589461	CMakeFiles/echo.dir/audio_common.cpp.o	bcb6dd1f9cbd4aa8
+16	1542	671589461	CMakeFiles/echo.dir/debug_utils.cpp.o	fbf6b2e438435a34
+11	1573	671589461	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+34	1586	671589461	CMakeFiles/echo.dir/audio_player.cpp.o	12ed98119a7051f8
+7	1693	671589462	CMakeFiles/echo.dir/audio_recorder.cpp.o	f27323165da7aebb
+27	1709	671589462	CMakeFiles/echo.dir/audio_main.cpp.o	9ec7fd0a5889b3ab
+1710	2123	671589462	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	445	671590793	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+445	587	671590794	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+9	1684	671680342	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+5	1717	671680342	CMakeFiles/echo.dir/audio_recorder.cpp.o	f27323165da7aebb
+1718	3139	671680343	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+6	1906	671688118	CMakeFiles/echo.dir/audio_recorder.cpp.o	f27323165da7aebb
+1907	3415	671688120	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+6	1698	671689386	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1698	2899	671689387	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+9	1542	671697853	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+11	1543	671697853	CMakeFiles/echo.dir/audio_main.cpp.o	9ec7fd0a5889b3ab
+4	1545	671697853	CMakeFiles/echo.dir/audio_recorder.cpp.o	f27323165da7aebb
+1545	2609	671697854	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	1796	671698465	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1797	3056	671698466	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	1490	671698623	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1491	2591	671698624	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	1550	671699663	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1550	2636	671699664	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	1515	671706336	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1515	2692	671706337	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	1640	671746476	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1640	2909	671746477	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	1649	671749049	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1650	2808	671749050	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+2	1415	671749319	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1416	2492	671749320	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+5	1473	671751236	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1473	2562	671751237	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	1513	671751845	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1513	2681	671751846	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+6	2201	671752266	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+2201	3632	671752268	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+5	2298	671919095	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+2298	4111	671919097	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+5	3013	671919412	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+5	1633	671919423	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+6	2266	671919551	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+2267	4132	671919553	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+6	2072	671919707	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+2072	3478	671919709	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	1540	671920785	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+3	1275	671920818	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+5	1952	672106488	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+5	1674	672106514	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	1648	672106708	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1648	2744	672106709	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	1538	672106885	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+7	1759	672106917	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1759	3007	672106918	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	1568	672107151	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1568	2692	672107152	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+5	965	672219222	CMakeFiles/echo.dir/audio_recorder.cpp.o	f27323165da7aebb
+18	970	672219222	CMakeFiles/echo.dir/audio_main.cpp.o	9ec7fd0a5889b3ab
+13	1237	672219222	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1237	1726	672219223	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+7	1111	672276655	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+7	377	672276732	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	649	672276938	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+649	818	672276938	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	716	672279540	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+3	206	672279782	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	674	672280593	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+674	833	672280593	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+7	914	672280920	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+914	1119	672280920	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+8	1251	672285570	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1251	1514	672285571	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	582	672287231	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+582	752	672287231	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+20	1849	672354055	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1850	2236	672354055	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+5	715	672888171	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+715	1082	672888172	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+3	1799	672903492	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+4	323	672903512	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+6	1017	672912072	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1017	1268	672912072	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	971	672914805	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+972	1166	672914805	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+5	1066	672917200	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1066	1239	672917200	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	708	672918454	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+709	880	672918454	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+4	1527	672918636	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1528	2029	672918637	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+9	1727	672944258	CMakeFiles/echo.dir/ece420_main.cpp.o	9aadd30e5c5d2058
+1728	2035	672944259	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	e6b16dc992926b7
+0	11	0	clean	e9ff0e88fb87348f

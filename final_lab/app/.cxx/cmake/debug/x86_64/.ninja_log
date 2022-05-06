@@ -1,0 +1,30 @@
+# ninja log v5
+43	516	671589465	CMakeFiles/echo.dir/kiss_fft/kiss_fft.c.o	2672b6a0ad96c9c1
+31	1499	671589466	CMakeFiles/echo.dir/ece420_lib.cpp.o	f1022cc018361918
+3	1733	671589466	CMakeFiles/echo.dir/audio_common.cpp.o	2f4807788e1367bc
+21	1904	671589466	CMakeFiles/echo.dir/debug_utils.cpp.o	39fd629d27d520ce
+10	1935	671589466	CMakeFiles/echo.dir/audio_player.cpp.o	3f37d82d95126f6e
+37	1952	671589466	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+26	2029	671589466	CMakeFiles/echo.dir/audio_recorder.cpp.o	452827ea0257cd6f
+15	2074	671589466	CMakeFiles/echo.dir/audio_main.cpp.o	3a4418b5c93d5e11
+2074	2268	671589466	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+4	450	671590795	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+451	547	671590795	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+7	1641	671680348	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+4	1677	671680348	CMakeFiles/echo.dir/audio_recorder.cpp.o	452827ea0257cd6f
+1677	3087	671680349	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+7	1528	671706342	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+10	1538	671706342	CMakeFiles/echo.dir/audio_recorder.cpp.o	452827ea0257cd6f
+4	1568	671706342	CMakeFiles/echo.dir/audio_main.cpp.o	3a4418b5c93d5e11
+1568	2828	671706343	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+4	1409	671924367	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+1409	2652	671924369	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+11	923	672219226	CMakeFiles/echo.dir/audio_recorder.cpp.o	452827ea0257cd6f
+5	932	672219226	CMakeFiles/echo.dir/audio_main.cpp.o	3a4418b5c93d5e11
+14	1161	672219226	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+1161	1538	672219226	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+5	637	672888173	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+637	899	672888174	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+2	617	672905947	CMakeFiles/echo.dir/ece420_main.cpp.o	fc9cd0e4e8d941ba
+617	885	672905948	C:/Users/ritvi/OneDrive - University of Illinois - Urbana/UIUC/2022_Spring/ECE420/Final-Lab/final_lab/app/build/intermediates/cmake/debug/obj/x86_64/libecho.so	b9425effe3fc0d87
+0	10	0	clean	e9ff0e88fb87348f

@@ -1,0 +1,7 @@
+Executable : C:\Users\ritvi\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ritvi\OneDrive - University of Illinois - Urbana\UIUC\2022_Spring\ECE420\Final-Lab\final_lab\app\.cxx\cmake\debug\x86
+echo
+jvmArgs : 
+
